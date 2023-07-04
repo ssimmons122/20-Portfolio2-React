@@ -1,16 +1,17 @@
 # Portfolio-Round2 with React
 
 ## Live Live and Screenshot
+LoL nope
 
-## Tech used and Built With
+## Tech Used and Built With
 - React
 - JavaScript
 - CSS
 - Node
 - Webpack
-- Bootstrap
+- TailwindCSS
 
-## Installation and Usage
+## Installation and Usage *once usable
 1. In the CLI, run $ git clone
 2. cd into portfolio2
 3. Run $ npm install
@@ -21,4 +22,4 @@
 Thank you, Flying Spaghetti Monster, for Google. 
 
 ## About the Author
-Welp, you can see all of the work here, as it is a portfolio from the edEx Coding Bootcamp, hosted by The Ohio State University. You're also welcome to contact me at simmons1022@yahoo.com. 
+Welp, you can see all of the work here, as it is a portfolio from the edEx Coding Bootcamp, hosted by The Ohio State University. You're also welcome to contact me at simmons1022@yahoo.com, but keep in mind  this is a huge work in progress. 
