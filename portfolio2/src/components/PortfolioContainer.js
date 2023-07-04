@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Resume from './pages/Resume';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
+import Header from '.pages/Header';
 import Footer from './pages/footer';
 
 export default function PortfolioContainer() {
